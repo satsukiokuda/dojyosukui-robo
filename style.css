@@ -444,6 +444,15 @@ section {
   border-radius: 5px;
 }
 
+.closed {
+  text-align: center;
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #ff6b6b;
+  color: var(--white);
+  border-radius: 5px;
+}
+
 /* 資料セクション */
 .resources {
   background-color: var(--light-green);
